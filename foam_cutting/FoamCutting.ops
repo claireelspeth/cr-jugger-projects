@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings version="2">
+  <category name="cp">
+    <setting name="timelimit" value="120.0"/>
+  </category>
+  <category name="cplex">
+    <setting name="tilim" value="900.0"/>
+    <setting name="workdir" value="C:\Users\IBM_ADMIN\Documents\ServiceActivities\FoamCutting"/>
+    <setting name="nodefileind" value="3"/>
+  </category>
+</settings>
